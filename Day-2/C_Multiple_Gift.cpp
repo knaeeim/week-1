@@ -10,6 +10,8 @@ int main()
     cin>>x>>y; 
     int cnt =0; 
 
+    //3 20
+
     while(x <= y){
         long long int multi = x*2;
         if(multi <= y){

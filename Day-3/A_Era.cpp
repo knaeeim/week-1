@@ -15,8 +15,7 @@ int main()
         int a[n]; 
         for(int i=1; i<=n; i++) cin>>a[i]; 
 
-
-        int ans = a[1] - 1; 
+        int ans = a[1] - 1;
         int idx = ans; 
 
         for(int i=2; i<=n; i++){

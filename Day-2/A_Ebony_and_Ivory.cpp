@@ -10,7 +10,7 @@ int main()
     cin>>a>>b>>c; 
 
     bool flag = false;
-
+ 
     for(int i=0; i<=c; i++){
         for(int j=0; j<=c; j++){
             if(i*a + j*b == c or i*b + j*a == c){

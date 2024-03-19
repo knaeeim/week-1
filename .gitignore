@@ -3,3 +3,5 @@
 *.vscode
 *.bin
 temp/
+input.txt
+output.txt
